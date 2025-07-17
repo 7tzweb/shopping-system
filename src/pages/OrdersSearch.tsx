@@ -48,7 +48,6 @@ const OrdersSearch = () => {
             <h2 className="mb-0">חיפוש הזמנות</h2>
             <Link to="/" className="btn btn-secondary">⬅ חזור לרשימת הקניות</Link>
         </div>
-      <h2 className="mb-3">חיפוש הזמנות</h2>
       <input
         type="text"
         className="form-control mb-3"
